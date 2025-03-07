@@ -37,17 +37,13 @@ Copy
 📦 src
  ┣ 📂 assets          # Static files (images, styles, etc.)
  ┣ 📂 components      # Reusable Vue components
- ┣ 📂 pages           # Page-level components
- ┣ 📂 router          # Vue Router configurations
+ ┣ 📂 views       # Page-level components
+ ┣ 📂 router      # Vue Router configurations
  ┣ 📂 store           # Vuex/Pinia state management
  ┣ 📂 api             # API calls and external services
- ┣ 📂 utils           # Utility functions
+ ┣ 📂 layout          # Utility functions
  ┣ 📜 main.js         # Entry file
  ┣ 📜 App.vue         # Root component
-🔗 Useful Commands
-Lint code: npm run lint
-Format code: npm run format
-Run tests: npm run test
  API Testing with Swagger
 Use Mock API (Swagger)
 Test API Calls with Swagger UI
